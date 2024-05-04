@@ -3,7 +3,9 @@
     "features": [
 {
   "type": "Feature",
-  "properties": {},
+  "properties": {
+    "name": "Lesarmees",
+  },
   "geometry": {
     "coordinates": [
       [
@@ -554,7 +556,9 @@
 },
 {
   "type": "Feature",
-  "properties": {},
+  "properties": {
+    "name": "Aujourd",
+  },
   "geometry": {
     "coordinates": [
       [
