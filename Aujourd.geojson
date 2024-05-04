@@ -2,6 +2,8 @@
   "type": "FeatureCollection",
     "features": [
 {
+  "type": "Feature",
+  "properties": {},
   "geometry": {
     "coordinates": [
       [
@@ -548,11 +550,11 @@
       ]
     ],
     "type": "Polygon"
-  },
-  "type": "Feature",
-  "properties": {}
+  }
 },
 {
+  "type": "Feature",
+  "properties": {},
   "geometry": {
     "coordinates": [
       [
@@ -959,8 +961,6 @@
       ]
     ],
     "type": "Polygon"
-  },
-  "type": "Feature",
-  "properties": {}
+  }
 }
 }
