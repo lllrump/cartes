@@ -1,4 +1,7 @@
 {
+  "type": "FeatureCollection",
+    "features": [
+{
   "geometry": {
     "coordinates": [
       [
@@ -190,4 +193,6 @@
   "properties": {
     "name": "Jaigrandiici"
   }
+}
+]
 }
